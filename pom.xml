@@ -12,6 +12,7 @@
     <modules>
         <module>core</module>
         <module>web</module>
+        <module>hdfs</module>
     </modules>
 
     <dependencyManagement>
